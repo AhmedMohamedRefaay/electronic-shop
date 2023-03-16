@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+ 
+ 
+.star i{
+    margin-left: 5px;
+    font-size: 13px;
+}
+.checked{
+    color: #ff9800;
+}
+ 
+ 
+ 
+ 
+/* contact */
+a:hover
+{
+ color: rgb(208, 146, 31) !important; 
+
+}
+
+li
+{
+    list-style: none;
+}
+
+@media screen and (max-width:720px) {
+     .card {
+        
+            display: flex !important;
+            flex: 1 1 auto !important;
+          
+        
+     }
+      
+}
+ 
